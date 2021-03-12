@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602511489216",
+    "project_id": "technicianappfirebase",
+    "storage_bucket": "technicianappfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602511489216:android:3be459f55bf635fd351525",
+        "android_client_info": {
+          "package_name": "com.habebkeke.rider_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602511489216-9e3hp4qeib9op2n311iadm6k9fmbdplv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD0WePRutuLTudo_IH7UTaOSz-NkHc_Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602511489216-9e3hp4qeib9op2n311iadm6k9fmbdplv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
